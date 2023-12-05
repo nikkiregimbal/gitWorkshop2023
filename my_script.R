@@ -2,6 +2,7 @@
 ## load library for show 
 
 library(mgcv)
-librayr(dplyr)
+library(dplyr)
+library(vegan)
 
 read.csv("")
